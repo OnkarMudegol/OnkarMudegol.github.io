@@ -32,7 +32,7 @@
 - **Link:** [GitHub repository or live demo]
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OnkarMudegol&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - LinkedIn: [Your LinkedIn profile URL]
