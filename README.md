@@ -7,22 +7,23 @@
 
 # 👋 About Me
 
-I am a Computer Science and Engineering student at Lovely Professional University with a strong foundation in Data Science, Software engineering and Android Development. My technical journey spans across various domains, from developing web applications using the MERN stack to implementing machine learning solutions for complex real world problems.
+I am a Computer Science and Engineering student at Lovely Professional University with a strong foundation in Data Science, Software engineering and Machine Learning. My technical journey spans across various domains, from developing web applications using the MERN stack to implementing machine learning solutions for complex real world problems.
 
 💡 **Core Competencies:**
-- Big Data Handling, Analysis and Visualisation 
+- Big Data Handling, Analysis and Visualisation
+- Implementing ML Algorithms and AI model development
 - Software development and system architecture
+- Design and Implementation of Computer Networks
 - Full-stack web development with MERN stack
 - Object-oriented programming
 - Data structures and algorithms
-- Android Development
+
 
 🚀 **Current Focus:**
 - Exploring advanced machine learning algorithms and their applications 
 - Contributing to open-source projects
 - Implementing data-driven solutions for real-world problems
 - Unmanned Aerial Systems (UAS) Technology
-- Developing stable android applications for various purposes
 - Enjoying Life because You Only Live Once!
 
 🎯 **Professional Interests:**
@@ -30,7 +31,6 @@ I am a Computer Science and Engineering student at Lovely Professional Universit
 - Software Architecture & System Design
 - AI/ML Applications
 - Automation and Robotics
-- Android Development
 - Unmanned Aerial Systems (UAS) Technology
 
 I'm passionate about leveraging technology to create impactful solutions and am always eager to collaborate on innovative projects. My repository showcases a collection of projects ranging from web applications to data analysis tools, reflecting my commitment to clean code, efficient algorithms, and user-centric design. I am always curious about new technologies and inventions, they are something that excite me the most, and the societal impact they have, from uplifting the underpreviledged to creating sustainable environmental solutions, is something that brings the most joy to me. I believe that with enough Grit, you can achieve anything you set your mind to! 
